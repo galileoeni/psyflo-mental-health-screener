@@ -1,0 +1,11 @@
+id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression,Journal_Entry,Mental_State,Urgency
+2,Male,33.0,Visakhapatnam,Student,5.0,0.0,8.97,2.0,0.0,'5-6 hours',Healthy,B.Pharm,Yes,3.0,1.0,No,1,I can't focus on my studies anymore - these assignments are crushing me.,academic_stress,high
+8,Female,24.0,Bangalore,Student,2.0,0.0,5.9,5.0,0.0,'5-6 hours',Moderate,BSc,No,3.0,2.0,Yes,0,Every morning I wake up dreading another day of this pressure.,depression,high
+26,Male,31.0,Srinagar,Student,3.0,0.0,7.03,5.0,0.0,'Less than 5 hours',Healthy,BA,No,9.0,1.0,Yes,0,Meditation and deep breathing help me manage my coursework.,positive_coping,low
+30,Female,28.0,Varanasi,Student,3.0,0.0,5.59,2.0,0.0,'7-8 hours',Moderate,BCA,Yes,4.0,5.0,Yes,1,My advisor expects perfection and I'm constantly exhausted.,work_stress,medium
+32,Female,25.0,Jaipur,Student,4.0,0.0,8.13,3.0,0.0,'5-6 hours',Moderate,M.Tech,Yes,1.0,1.0,No,0,I've started having panic attacks before exams.,anxiety,high
+33,Male,29.0,Pune,Student,2.0,0.0,5.7,3.0,0.0,'Less than 5 hours',Healthy,PhD,No,4.0,1.0,No,0,Talking to friends in my program makes me feel less alone.,positive_coping,low
+52,Male,30.0,Thane,Student,3.0,0.0,9.54,4.0,0.0,'7-8 hours',Healthy,BSc,No,1.0,2.0,No,0,I'm falling behind and too ashamed to ask for help.,academic_stress,medium
+56,Female,30.0,Chennai,Student,2.0,0.0,8.04,4.0,0.0,'Less than 5 hours',Unhealthy,'Class 12',No,0.0,1.0,Yes,0,"Sometimes I just stare at my books, unable to start working.",depression,high
+59,Male,28.0,Nagpur,Student,3.0,0.0,9.79,1.0,0.0,'7-8 hours',Moderate,B.Ed,Yes,12.0,3.0,No,1,I've created a study schedule that actually works for me!,positive_coping,low
+62,Male,31.0,Nashik,Student,2.0,0.0,8.38,3.0,0.0,'Less than 5 hours',Moderate,LLB,Yes,2.0,5.0,No,1,The financial pressure makes everything 10x harder.,financial_stress,medium
